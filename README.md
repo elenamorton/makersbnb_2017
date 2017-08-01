@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/elenamorton/makersbnb_2017.svg?branch=master)](https://travis-ci.org/elenamorton/mmakersbnb_2017)
+[![CodeClimate](https://codeclimate.com/github/elenamorton/makersbnb_2017/badges/gpa.svg)](https://codeclimate.com/github/elenamorton/makersbnb_2017)
+[![Test Coverage](https://codeclimate.com/github/elenamorton/makersbnb_2017/badges/coverage.svg)](https://codeclimate.com/github/elenamorton/makersbnb_2017/coverage)
+
 # MakersBnB
 
 The first experience of a group project at Makers Academy (Week 6).
@@ -113,7 +117,7 @@ I want to log out of my account
 ## Usage Instructions
 * clone the repo and run bundle
 ```shell
-$ git clone https://github.com/tobywinter/makersbnb_2017
+$ git clone https://github.com/elenamorton/makersbnb_2017
 $ cd makersbnb
 $ rvm 2.4.0
 $ bundle install
